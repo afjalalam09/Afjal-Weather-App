@@ -75,5 +75,8 @@ done_button.place( y=190, height=50, width=100,x=200)
 win.mainloop()
 
 
-![Initial screenshot of Afjal Weather App](weather app00.jpg)
-![Afjal Weather App showing Jaipur data](weather app001.jpg)
+### 🖼️ App Screenshots
+
+| Before Input | With Jaipur Data |
+| :----------: | :--------------: |
+| ![Initial screen of Afjal Weather App](weatherbefore.jpg) | ![Weather App showing Jaipur data](weatherafter.jpg) |
