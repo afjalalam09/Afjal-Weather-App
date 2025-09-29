@@ -74,6 +74,8 @@ done_button = Button(win, text="Done",
 done_button.place( y=190, height=50, width=100,x=200)
 win.mainloop()
 
+### 🖼️ App Screenshots
+
 | Before Input | With Jaipur Data |
-|:------------:|:----------------:|
-| ![Initial screenshot](images/weather_app00.jpg) | ![Jaipur data screenshot](images/weather_app001.jpg) |
+| :----------: | :--------------: |
+| ![Initial screenshot of Afjal Weather App](weather app00.jpg) | ![Afjal Weather App showing Jaipur data](weather app001.jpg) |
