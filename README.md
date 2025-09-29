@@ -73,3 +73,10 @@ done_button = Button(win, text="Done",
                      font=("Times New Roman", 20, "bold"),command=data_get)
 done_button.place( y=190, height=50, width=100,x=200)
 win.mainloop()
+
+---
+### 🖼 App Screenshots
+
+| Before Input | With Jaipur Data |
+| :----------: | :--------------: |
+| ![Afjal Weather App ka shuruaati screenshot](weather app00.jpg) | ![Afjal Weather App ka screenshot, Jaipur ka data dikhata hua](weather app001.jpg) |
